@@ -1,0 +1,23 @@
+.hw4 {
+    text-align: left;
+    color: black;
+    border-right: 5px green solid;
+    border-left: 5px green solid;
+    border-top: 5px green solid;
+    border-bottom: 5px green solid;
+        width: 50%;
+        padding-left:5px;
+        margin: auto;
+    
+        
+
+    
+}
+.email{
+    text-align: center;
+   
+}
+h1{
+    text-align: center;
+}
+h2{text-align: center;}
